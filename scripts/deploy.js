@@ -18,3 +18,6 @@ main().catch((error) => {
 
 
 //nUSDStablecoin contract deployed to: 0x828243AF61a8edb0cAEfE0A73385aaFaf4bfe5d6
+//SEPOLIA_URL = https://eth-sepolia.g.alchemy.com/v2/wX8fli2cQBW2_PqHvEsZeYEdd-IP6d7A
+//SEPOLIA_API_KEY = wX8fli2cQBW2_PqHvEsZeYEdd-IP6d7A
+//PRIVATE_KEY = 
